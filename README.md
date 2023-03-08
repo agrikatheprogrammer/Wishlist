@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/agrikatheprogrammer/Wishlist/blob/main/ezgif-4-e65489104a.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://github.com/agrikatheprogrammer/Wishlist/blob/main/Record_2023-03-07-17-29-05.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 GIF created with Ezgif.com
 
